@@ -15,3 +15,6 @@ Take Appointments: Delve into the data to distinguish between appointments that 
 Referrals and Walk-In Patients: Uncover the balance between patients referred to specific departments and those who walk in without prior referral. How does this impact the overall patient experience?
 
 Patient Visits by Age Group and Race: Explore the distribution of patient visits across different age groups and races. Gain insights into the diversity of healthcare needs and preferences.
+conducted in-depth analysis of bed occupied trends,identifying viral infection and flu as major contributions to patient volume .
+provided insight into diagnostic test revenue,with ct scans and mri,as the highest cintribution,
+visualized doctor workload by the feedback and test type enabling work distribution.
